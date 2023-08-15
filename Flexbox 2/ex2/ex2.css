@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    height: 30vh;
+    background-color:aqua ;
+    justify-content: flex-end;
+}
+
+.cabecalho{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    margin-right: 5vh;
+}
+
+.cabecalho div{
+    height: 15vh;
+    width: 15vh;
+    background-color: black;
+    margin: 10px;
+    
+
+}

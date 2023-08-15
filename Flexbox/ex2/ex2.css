@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+.cabecalho{
+    height: 20vh;
+    background-color: aquamarine;
+}
+
+.mid{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    height: 60vh;
+}
+
+.left{
+    height: auto;
+    width: 70vh;
+    background-color: blueviolet;
+
+}
+
+.right{
+    height: auto;
+    flex-grow: 1;
+    background-color: brown;
+}
+
+
+.footer{
+    height: 20vh;
+    background-color: blue;
+
+}

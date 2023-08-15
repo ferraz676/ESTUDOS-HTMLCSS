@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-color: blue;
+    width: 70%;
+    margin: 0 auto;
+    height: 20vh;
+}
+.content{
+    background-color: aquamarine;
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    
+}
+.feed{
+    width: 70%;
+    padding: 10px 0px;
+    background-color: royalblue;
+    margin: 20px;
+}
+.footer{
+    background-color: green;
+    width: 100%;
+    height: 18.5vh;
+}
+ .top{
+    background-color: gray;
+    margin: 5px auto;
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+}
+.mid{
+    background-color: gray;
+    margin: 5px auto;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+}
+.bottom{
+    background-color: gray;
+    margin: 5px auto;
+    width: 80%;
+    display: flex;
+    justify-content: end;
+}
+.sections{
+    width: 90%;
+    margin: 10px;
+}
+.bigger{
+    height: 30vh;
+    width: 74vh;
+    background-color: black;
+    margin-left: -17px;
+    
+}
+.smaller{
+    height: 5vh;
+    margin-top: 10px;
+    width: 74vh;
+    background-color: black;
+    margin-left: -17px;
+}
+.box{
+    width: 7vh;
+    height: 5vh;
+    margin: 5px;
+    background-color: black;
+}
+
+.retangulos{
+    display: flex;
+    flex-direction: column;
+}
+
+.retangulos div{
+    background-color: black;
+    width: 20vh;
+    height: 2vh;
+    margin: 4px;
+}
+
+.square{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+}
+
+.square div{
+    width: 7vh;
+    height: 5vh;
+    margin: 5px;
+    background-color: black;
+    position: absolute;
+    right: -48vh;
+    top: -6vh;
+}
+

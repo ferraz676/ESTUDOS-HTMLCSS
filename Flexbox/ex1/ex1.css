@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+
+.container{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.cabecalho{
+    height: 20vh;
+    background-color: aqua;
+
+}
+
+.mid{
+    height: 60vh;
+    background-color: greenyellow;
+
+}
+
+.footer{
+    height: 20vh;
+    background-color: firebrick;
+
+}
