@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'D1';
+    src: url(../assets/fonts/2d7928e1003804522e56efd448d4777b.woff2);
+}
+
+@font-face {
+    font-family: 'D2';
+    src: url(../assets/fonts/3d07f5abf272fbb5670d02ed687453d0.woff2);
+}
+
+@font-face {
+    font-family: 'D3';
+    src: url(../assets/fonts/568d4eaa150e7daa3b0b03bcde881aef.woff2);
+}
+
+@font-face {
+    font-family: 'D4';
+    src: url(../assets/fonts/75104c2074707963465f6ab54556f1c3.woff2);
+}
+
+@font-face {
+    font-family: 'D5';
+    src: url(../assets/fonts/8713b8a90bded5ae0c4872484f54fbde.woff2);
+}
+
+@font-face {
+    font-family: 'D6';
+    src: url(../assets/fonts/e11a98be13e5ec1554b9f26f00c19fba.woff2);
+}

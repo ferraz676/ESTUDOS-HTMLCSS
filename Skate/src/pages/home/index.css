@@ -1,0 +1,82 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    height: 150vh;
+    background-color: #fff;
+}
+
+.rs{
+    margin-left: 2.3vh;
+    margin-top: 0.5vh;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+    margin-left: 2vh;
+    margin-top: 2vh;
+}
+
+.menu{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.lupa{
+    padding-left: 10px;
+    font-family: '1';
+    font-size: 14px;
+    display: flex;
+    flex-direction: row;
+    width: 64vh;
+    height: 5.5vh;
+    text-align: right;
+    border: 1px black solid;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 10px;
+    margin-left: 38vh;
+    margin-right: 15vh;
+}
+
+.m1{
+    display: flex;
+    flex-direction: row;
+    width: 15vh;
+    font-family: '1';
+    font-size: 12px;
+    margin: 5px;
+    align-items: end;
+}
+
+
+.items{
+    display: flex;
+    flex-direction: row;
+    font-family: '1';
+    font-size: 14px;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #c9c7c7;
+    height: 6.5vh;
+    margin-top: 2.5vh;
+    
+}
+
+.i1{
+    display: flex;
+    flex-direction: row;
+    font-family: '1';
+    font-size: 14px;
+    justify-content: space-between;
+    align-items: center;
+    height: 6.5vh;
+    width: 170vh;
+    margin-left: 15vh;
+}
