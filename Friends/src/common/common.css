@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'f1';
+    src: url(../assets/fonts/Gilroy-Bold.woff2);
+}
+@font-face {
+    font-family: 'f2';
+    src: url(../assets/fonts/Gilroy-Medium.woff2);
+}
+@font-face {
+    font-family: 'f3';
+    src: url(../assets/fonts/Gilroy-Regular.woff2);
+}
+@font-face {
+    font-family: 'f4';
+    src: url(../assets/fonts/street-bold.woff2);
+}
+@font-face {
+    font-family: 'f5';
+    src: url(../assets/fonts/street.woff2);
+}
